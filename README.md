@@ -20,8 +20,8 @@ Welcome to **Chess Engine in C**! This project is a high-performance chess engin
 First, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/yourusername/chess-engine-c.git
-cd chess-engine-c
+git clone https://github.com/yourusername/chess-engine.git
+cd chess-engine
 ```
 
 ## Building
